@@ -28,11 +28,14 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 <h2>Terms and Conditions</h2>
 <ol>
 <li>Acceptance of Terms
-By accessing and using this application ("the App"), you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions. If you do not agree, please discontinue use immediately.</li>
-
+By accessing and using this application ("the App"), you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions, including the standard End User License Agreement (EULA) terms. If you do not agree, please discontinue use immediately.</li>
+  
+<li>Scope of License
+The Developer grants you a personal, non-exclusive, non-transferable, non-sublicensable, revocable license to use the App on any compatible device that you own or control, as permitted by the usage rules set forth in the App Store or Google Play Store Terms of Service.</li>
+  
 <li>Medical Disclaimer<br>
 <b>IMPORTANT: THIS APP IS NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT.
-The App provides a tool for self-guided EMDR (Eye Movement Desensitization and Reprocessing) stimulation. EMDR is a powerful therapeutic technique that can surface intense emotions, vivid memories, or physical sensations.</b>
+The App provides a tool for self-guided EMDR (Eye Movement Desensitization and Reprocessing) stimulation. EMDR is a powerful therapeutic technique that can surface intense emotions, vivid memories, or physical sensations.
 
 You should consult with a qualified mental health professional before using this App, especially if you have a history of complex trauma, dissociative disorders, or severe psychiatric conditions.</li>
 
@@ -49,11 +52,24 @@ You agree to use the App only when you are in a safe, stable environment where y
 <li>Limitation of Liability
 To the maximum extent permitted by law, the App owner, developers, and affiliates shall not be liable for any direct, indirect, incidental, or consequential damages arising out of your use or inability to use the App, including but not limited to emotional distress, psychological injury, or any other health-related issues.</li>
 
-<li>No Guarantees
+<li>No Warranty
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. THE DEVELOPER HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APP, EITHER EXPRESS, IMPLIED, OR STATUTORY.
+
 While EMDR is an evidence-based method, results vary significantly between individuals. The App makes no guarantees regarding the effectiveness of the tool for your specific situation or the resolution of any traumatic symptoms.</li>
 
+<li>Limitation of Liability
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE APP.
+</li>
+
 <li>Privacy and Data
-The App is designed to prioritize your privacy. Any session data or personal reflections are stored locally on your device. We do not have access to your therapeutic responses or target memories.</li>
+The App is designed to prioritize your privacy. Any session data or personal reflections are stored locally on your device. We do not have access to your therapeutic responses or target memories. You agree that the Developer may collect and use technical data and related information to facilitate the provision of software updates and product support.</li>
+
+<li>Legal Compliance
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+</li>
+
+<li>Termination
+The license is effective until terminated by you or the Developer. Your rights under this license will terminate automatically without notice from the Developer if you fail to comply with any term(s) of this license.</li>
 
 <li>Changes to Terms
 We reserve the right to modify these terms at any time. Continued use of the App following any changes constitutes your acceptance of the new terms.
